@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizApp</string>
+    <string name="hello_world">Welcome to QuizApp!</string>
+    <string name="start">START</string>
+    <string name="question">question</string>
+    <string name="option1">option1</string>
+    <string name="option2">option2</string>
+    <string name="option3">option3</string>
+    <string name="option4">option4</string>
+    <string name="btn_display">NEXT</string>
+    
+    <string name="result">Your Score is: </string>
+    
+    <string name="startOver">Start Over!</string>
+    <string name="quit">QUIT</string>
+
+</resources>
