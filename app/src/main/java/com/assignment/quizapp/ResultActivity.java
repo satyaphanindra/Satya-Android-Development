@@ -66,8 +66,6 @@ public class ResultActivity extends Activity {
 				Intent intent = new Intent(Intent.ACTION_MAIN);
 				intent.addCategory(Intent.CATEGORY_HOME);
 				startActivity(intent);
-
-
 			}
 		});
 		
@@ -75,7 +73,6 @@ public class ResultActivity extends Activity {
 			
 			@Override
 			public void onClick(View v) {
-				
 				Intent intent = new Intent(ResultActivity.this, TestActivity.class);
 				startActivity(intent);
 				
